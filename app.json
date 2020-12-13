@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "id.ac.ui.cs.mobileprogramming.michaelchristophermanullang.helloworld"
     },
     "web": {
       "favicon": "./assets/favicon.png"
